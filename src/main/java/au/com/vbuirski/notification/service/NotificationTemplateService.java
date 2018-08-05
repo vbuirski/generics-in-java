@@ -2,8 +2,10 @@ package au.com.vbuirski.notification.service;
 
 import java.util.List;
 
+import au.com.vbuirski.notification.domain.NotificationTemplate;
+
 /**
- * @author vonita
+ * @author vb
  */
 public interface NotificationTemplateService <T extends NotificationTemplate> {
 
